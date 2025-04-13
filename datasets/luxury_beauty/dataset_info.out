@@ -1,0 +1,12 @@
+D:\anaconda3\envs\mytorch\python.exe D:/PycharmProjects/NISER/datasets/preprocess_myself.py
+Namespace(dataset='luxury_beauty', split_date=360)
+Users: 3816
+Items: 1437
+Actions: 33858
+Avg Length: 8.87
+Sparsity: 0.9938
+Train Sessions: 3213
+Test Sessions: 603
+Done.
+
+进程已结束,退出代码0
