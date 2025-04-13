@@ -1,0 +1,12 @@
+D:\anaconda3\envs\mytorch\python.exe D:/PycharmProjects/NISER/datasets/preprocess_myself.py
+Namespace(dataset='prime_pantry', split_date=360)
+Users: 14172
+Items: 4961
+Actions: 137687
+Avg Length: 9.72
+Sparsity: 0.9980
+Train Sessions: 11854
+Test Sessions: 2318
+Done.
+
+进程已结束,退出代码0
